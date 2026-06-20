@@ -2,10 +2,8 @@
 
 An end-to-end, event-driven pipeline that automates the entire video processing lifecycle from initial upload to final publication.
 
-> **Note on diagrams:** In the sequence diagrams, infrastructure components (Postgres DB, Redis Saga Store, S3 Storage) are intentionally hidden to improve readability of the service-to-service architecture layer.  
-> *Placeholders for your SVG diagrams are included below each stage — replace them with your actual images.*
+> **Note on diagrams:** In the sequence diagrams, infrastructure components (**Postgres DB, Redis Saga Store, S3 Storage**) are intentionally **hidden to improve readability** of the service-to-service architecture layer.  
 
----
 
 ## Stage 1: Secure Multipart Video Upload & Assembly
 
