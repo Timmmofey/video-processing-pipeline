@@ -1,4 +1,4 @@
-# End-to-End Event-Driven Video Processing Pipeline
+# End-to-End Video Processing Pipeline
 
 An end-to-end, event-driven pipeline that automates the entire video processing lifecycle from initial upload to final publication.
 
